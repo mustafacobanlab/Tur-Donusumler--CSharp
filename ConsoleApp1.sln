@@ -29,6 +29,28 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metotlar", "metotlar\metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "siniflar", "siniflar\siniflar.csproj", "{21FF8CBB-F578-42FE-861F-4A7B7BD6DF45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek", "ornek\ornek.csproj", "{C73D62D8-4E9E-46E7-B344-00E2736917FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kapsulleme", "kapsulleme\kapsulleme.csproj", "{01C0F4C2-A33D-4161-A9E2-D07CF915B6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornakkapsulleme", "ornakkapsulleme\ornakkapsulleme.csproj", "{ACD012C5-C6C4-4033-A91B-AAED560DFD32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMetot", "StaticMetot\StaticMetot.csproj", "{4B365D53-44BF-4542-805D-8A84852DC409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticyapicimetot", "staticyapicimetot\staticyapicimetot.csproj", "{1EA17154-A827-45D9-BF64-F3FFEACBA2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrayl2", "Arrayl2\Arrayl2.csproj", "{D9DD907D-F971-48E8-8E54-6F04A0BE4506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{760612BB-8A13-435D-83EA-BC6EC22C151B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterictanceGiris", "InterictanceGiris\InterictanceGiris.csproj", "{E4292F12-63C4-42F3-A4B7-3CAF4D778288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceUygulama", "InheritanceUygulama\InheritanceUygulama.csproj", "{E7EB2B29-E35B-41E0-BC02-AEDE2C6A1F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphsim", "Polymorphsim\Polymorphsim.csproj", "{A96E1D74-BF37-44D4-89FE-0518A9D4E8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphsimOrnek", "PolymorphsimOrnek\PolymorphsimOrnek.csproj", "{08851C97-6F2A-493E-85DB-9E3377F57E4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +109,50 @@ Global
 		{21FF8CBB-F578-42FE-861F-4A7B7BD6DF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21FF8CBB-F578-42FE-861F-4A7B7BD6DF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21FF8CBB-F578-42FE-861F-4A7B7BD6DF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73D62D8-4E9E-46E7-B344-00E2736917FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73D62D8-4E9E-46E7-B344-00E2736917FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73D62D8-4E9E-46E7-B344-00E2736917FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73D62D8-4E9E-46E7-B344-00E2736917FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C0F4C2-A33D-4161-A9E2-D07CF915B6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C0F4C2-A33D-4161-A9E2-D07CF915B6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C0F4C2-A33D-4161-A9E2-D07CF915B6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C0F4C2-A33D-4161-A9E2-D07CF915B6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD012C5-C6C4-4033-A91B-AAED560DFD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD012C5-C6C4-4033-A91B-AAED560DFD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD012C5-C6C4-4033-A91B-AAED560DFD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD012C5-C6C4-4033-A91B-AAED560DFD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B365D53-44BF-4542-805D-8A84852DC409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B365D53-44BF-4542-805D-8A84852DC409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B365D53-44BF-4542-805D-8A84852DC409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B365D53-44BF-4542-805D-8A84852DC409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA17154-A827-45D9-BF64-F3FFEACBA2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA17154-A827-45D9-BF64-F3FFEACBA2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA17154-A827-45D9-BF64-F3FFEACBA2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA17154-A827-45D9-BF64-F3FFEACBA2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DD907D-F971-48E8-8E54-6F04A0BE4506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DD907D-F971-48E8-8E54-6F04A0BE4506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DD907D-F971-48E8-8E54-6F04A0BE4506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DD907D-F971-48E8-8E54-6F04A0BE4506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760612BB-8A13-435D-83EA-BC6EC22C151B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760612BB-8A13-435D-83EA-BC6EC22C151B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760612BB-8A13-435D-83EA-BC6EC22C151B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760612BB-8A13-435D-83EA-BC6EC22C151B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4292F12-63C4-42F3-A4B7-3CAF4D778288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4292F12-63C4-42F3-A4B7-3CAF4D778288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4292F12-63C4-42F3-A4B7-3CAF4D778288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4292F12-63C4-42F3-A4B7-3CAF4D778288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7EB2B29-E35B-41E0-BC02-AEDE2C6A1F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EB2B29-E35B-41E0-BC02-AEDE2C6A1F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EB2B29-E35B-41E0-BC02-AEDE2C6A1F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EB2B29-E35B-41E0-BC02-AEDE2C6A1F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96E1D74-BF37-44D4-89FE-0518A9D4E8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96E1D74-BF37-44D4-89FE-0518A9D4E8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96E1D74-BF37-44D4-89FE-0518A9D4E8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96E1D74-BF37-44D4-89FE-0518A9D4E8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08851C97-6F2A-493E-85DB-9E3377F57E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08851C97-6F2A-493E-85DB-9E3377F57E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08851C97-6F2A-493E-85DB-9E3377F57E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08851C97-6F2A-493E-85DB-9E3377F57E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
